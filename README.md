@@ -97,16 +97,12 @@
 ## 📊 GitHub Analytics (All-Time)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vish-4-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage" alt="Vishal's All-Time GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vish-4-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages Across All Repositories" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vish-4-1&theme=monochrome" alt="Vishal's GitHub Lifetime Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vish-4-1&theme=monochrome" alt="Top Languages Across All Repositories" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vish-4-1&theme=tokyonight&hide_border=true" alt="Lifetime Contributions and GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vish-4-1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=vish-4-1&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e" alt="Lifetime Contributions and GitHub Streak" />
 </div>
 
 ---
