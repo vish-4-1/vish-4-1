@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title description">
+  <title id="title">Vishal Kumar — Student Developer</title>
+  <desc id="description">A professional animated profile header.</desc>
+  <rect width="900" height="180" fill="#0d1117"/>
+  <rect x="40" y="34" width="6" height="112" fill="#58a6ff"/>
+  <text x="76" y="91" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Vishal Kumar</text>
+  <text x="76" y="126" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="21">Student Developer</text>
+  <rect x="368" y="99" width="10" height="32" fill="#58a6ff">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
