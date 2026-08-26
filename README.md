@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishaldevikumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vish-4-1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/vish-4-1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/vish41/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaldevikumar@gmail.com)
 
 <br/>
@@ -141,13 +141,13 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vish-4-1?theme=dark&font=Inter&ext=activity)](https://leetcode.com/vish-4-1)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vish41?theme=dark&font=Inter&ext=activity)](https://leetcode.com/u/vish41/)
 
 <br/>
 
 | Platform | Profile Link | Focus Areas |
 | :--- | :--- | :--- |
-| **LeetCode** | [vish-4-1](https://leetcode.com/vish-4-1) | Dynamic Programming, Graphs, Trees, System Algorithms |
+| **LeetCode** | [vish41](https://leetcode.com/u/vish41/) | Dynamic Programming, Graphs, Trees, System Algorithms |
 | **GeeksforGeeks** | [vish-4-1](https://auth.geeksforgeeks.org/user/vish-4-1) | Core DSA, Competitive Problem Solving |
 | **HackerRank** | [vish-4-1](https://hackerrank.com/vish-4-1) | Problem Solving, C++, Java, Python Badges |
 
