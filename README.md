@@ -97,8 +97,8 @@
 ## 📊 GitHub Analytics (All-Time)
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vish-4-1&theme=monochrome" alt="Vishal's GitHub Lifetime Stats" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vish-4-1&theme=monochrome" alt="Top Languages Across All Repositories" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vish-4-1&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Vishal's GitHub Lifetime Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vish-4-1&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages Across All Repositories" height="165" />
 </div>
 
 <div align="center">
