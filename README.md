@@ -68,72 +68,11 @@
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 01. Career Guidance AI Platform</h3>
-      <p align="center"><strong>AI-Powered Career Roadmap & Recommendation Engine</strong></p>
-      <p><strong>Problem Solved:</strong> Guides students and early-career engineers through personalized career pathways, skill gap identification, and automated recommendations.</p>
-      <p><strong>Key Highlights:</strong></p>
-      <ul>
-        <li>Intelligent recommendation engine analyzing user profiles and target tech roles.</li>
-        <li>Interactive UI providing step-by-step learning roadmaps and curated resources.</li>
-        <li>Clean modular architecture ready for custom LLM integration and assessment scoring.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>JavaScript</code>, <code>Node.js</code>, <code>Express</code>, <code>AI/ML APIs</code>, <code>HTML5/CSS3</code></p>
-      <div align="center">
-        <a href="https://github.com/vish-4-1/Career-Guidance-AI-Platform"><strong>View Code ↗</strong></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 02. Real-Time Chat Application</h3>
-      <p align="center"><strong>Low-Latency Multi-Client Messaging System</strong></p>
-      <p><strong>Problem Solved:</strong> Enables instant, bidirectional communication with thread safety, reliable connection pooling, and multi-user room support.</p>
-      <p><strong>Key Highlights:</strong></p>
-      <ul>
-        <li>Engineered multithreaded socket server handling simultaneous client connections.</li>
-        <li>Implemented robust broadcast protocols and error handling for connection drops.</li>
-        <li>Modular design separating networking logic, message formatting, and UI handling.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>Java</code>, <code>Java Sockets / Networking</code>, <code>Multithreading</code>, <code>OOP Design</code></p>
-      <div align="center">
-        <a href="https://github.com/vish-4-1/Real-Time-Chat-Application"><strong>View Code ↗</strong></a>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏎️ 03. One-way-Racer</h3>
-      <p align="center"><strong>High-Performance 2D Arcade Game Engine</strong></p>
-      <p><strong>Problem Solved:</strong> Implements optimized game loop, collision detection algorithms, and real-time obstacle rendering with high framerate stability.</p>
-      <p><strong>Key Highlights:</strong></p>
-      <ul>
-        <li>Custom 2D collision detection and dynamic difficulty scaling logic.</li>
-        <li>Memory-efficient object handling and low-overhead game loops.</li>
-        <li>Clean object-oriented architecture in modern C++.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>C++</code>, <code>Game Loops</code>, <code>Data Structures</code>, <code>Algorithms</code></p>
-      <div align="center">
-        <a href="https://github.com/vish-4-1/One-way-Racer"><strong>View Code ↗</strong></a>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ 04. High-Concurrency Backend Service</h3>
-      <p align="center"><strong>Scalable Distributed REST / Microservice API</strong></p>
-      <p><strong>Problem Solved:</strong> Handles heavy transactional throughput with rate limiting, caching strategies, and resilient error recovery.</p>
-      <p><strong>Key Highlights:</strong></p>
-      <ul>
-        <li>Structured RESTful API design with validated request schemas.</li>
-        <li>Query optimization and caching layers for sub-100ms response latencies.</li>
-        <li>Containerized deployment setup with automated test suites.</li>
-      </ul>
-      <p><strong>Tech Stack:</strong> <code>TypeScript</code>, <code>Node.js</code>, <code>PostgreSQL</code>, <code>Docker</code>, <code>Redis</code></p>
-      <div align="center">
-        <a href="https://github.com/vish-4-1"><strong>Explore Repositories ↗</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| 🤖 **Career Guidance AI Platform** | AI-driven career path recommendation engine providing personalized roadmaps and skill analysis. | `JavaScript` `Node.js` `AI/ML` | [View Code ↗](https://github.com/vish-4-1/Career-Guidance-AI-Platform) |
+| 💬 **Real-Time Chat Application** | Multithreaded socket-based chat system enabling low-latency concurrent client messaging. | `Java` `Sockets` `Networking` | [View Code ↗](https://github.com/vish-4-1/Real-Time-Chat-Application) |
+| 🏎️ **One-way-Racer** | 2D arcade racing game with custom collision detection algorithms and optimized game loops. | `C++` `OOP` `Algorithms` | [View Code ↗](https://github.com/vish-4-1/One-way-Racer) |
 
 ---
 
